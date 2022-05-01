@@ -1,0 +1,169 @@
+.body{
+    width: 100%;
+}
+
+* {
+    font-size: 14px;
+}
+
+.imagen{
+    background-image:linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)), url("./Imagen/bam.jpg");
+    width: 100%; 
+    height:500px;
+    background-size:cover;
+}
+
+.card-img-overlay1{
+    align-content: right;
+    width: 50%;
+    height: 500px;
+}
+
+.card-img-overlay2{
+    align-content: left;
+    width: 50%;
+    height: 500px;
+}
+
+.cuadro1{
+    float: left;
+    width: 50%;
+    height: 50%;
+}
+.cuadro2{
+    float: right;
+    width: 50%;
+    height: 50%;
+}
+.cuadro3{
+    float: left;
+    width: 50%;
+    height: 50%;
+}
+
+.cuadro4{
+    float: right;
+    width: 50%;
+    height: 50%;
+    color:white;
+    vertical-align: sub;
+    text-align: end;
+    
+}
+
+#ComprarTickets{
+    background-color: rgb(41,167,70);
+    border-color:rgb(41,167,70);
+}
+
+.card {
+    width: 20rem;
+    background-color: rgb(255, 255, 255);
+}
+
+.card a {
+    padding: .2rem .4rem .2rem .4rem;
+    font-size: .7rem;
+    font-weight: bold;
+    border: 0;
+    border-radius: 5px;    
+}
+
+.txt {
+    font-size: 0,2rem;
+    text-align: center;
+}
+ 
+.txt1 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.txt2 {
+    font-size: 0,08rem;
+    text-align: center;
+}
+
+.row{
+    height: 400px;
+}
+
+.fondo{
+    background-image: url("./Imagen/honolulu1.jpg");
+    background-size:cover;    
+}
+
+.fondo2{
+    height: 100%;
+    background-color: rgb(53, 58, 64);
+}
+
+.texto{
+    height: 350px;
+    padding: .8rem 1rem .2rem 1rem; 
+}
+
+#formulario{
+    margin: 0 auto;
+    align-content: center;
+    width: 500px;
+}
+
+.col1{
+    width: 45%; 
+    float: left;   
+}
+
+.col2{
+    width: 45%; 
+    float: right;   
+}
+
+label {
+    font-weight: bold;
+    color: #444;
+    font-size: 14px;
+}
+
+textarea{
+    border-radius: 5px;
+    margin: 10px 0;
+    background: #fff;
+    border: 1px solid #ccc;
+    color: #777;
+    max-width: 100%;
+    outline: none;
+    padding: 7px 8px;
+}
+
+#Boton{
+    width: 100%;
+    background-color: rgb(150,201,62);
+    border-color: rgb(150,201,62);
+}
+
+.card-img-overlay{
+    text-align: end;
+    top: 320px;
+    right: 100px;
+}
+
+.navbar1{
+    background-color: rgb(29, 58, 74);
+    height: 60px;
+    width: 100%;
+}
+
+#navbarSupportedContent{
+    margin: 0 auto;
+    align-content: center;
+}
+.nav-item{
+    padding: 0rem 1rem 0rem 5rem; 
+    text-align: center;
+    width: 70%; 
+}
+
+
+
+
